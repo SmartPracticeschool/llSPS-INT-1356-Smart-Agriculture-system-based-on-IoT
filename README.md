@@ -16,7 +16,7 @@ Based on all the parameters he can water his crop by controlling the motors usin
 
 5.)Here we are using the Online IoT simulator for getting the Temperature,Humidity and Soil Moisture values.
 
-# As in this project we will buit an UI with the use of NODE-RED
+# As in this project we will built an UI with the use of NODE-RED
 ## Web App user Interface
 ### 1.) Smart_home Tab
 ![](Project_tasks/smarthome_UI.png)
